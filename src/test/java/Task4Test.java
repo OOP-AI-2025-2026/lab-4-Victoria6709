@@ -1,5 +1,6 @@
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Nested;
+import ua.opnu.DiscountBill2;
 import ua.opnu.java.inheritance.bill.Employee;
 import ua.opnu.java.inheritance.bill.Item;
 
